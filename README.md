@@ -33,7 +33,7 @@ The ERP_Portal is designed to streamline various administrative and academic pro
 ## Technologies Used
 
 - **Programming Language:** C++
-- Other relevant technologies and frameworks can be listed here if applicable.
+- OOP's
 
 ## Installation
 
